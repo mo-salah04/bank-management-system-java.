@@ -1,0 +1,6 @@
+Transaction History for Account: 0434628038
+--------------------------------------------------
+Deposited: $10000.0 on 27-12-2024
+Withdrew: $5000.0 on 27-12-2024
+Received: $4990.0 from 0100051716 on 27-12-2024
+Deposited: $10.0 on 27-12-2024
